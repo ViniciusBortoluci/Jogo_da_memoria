@@ -5,7 +5,7 @@ Esse é um projeto proposto no bootcamp https://web.dio.me/track/coding-future-f
 na platafoma https://web.dio.me/
 
 O Objetivo era criar um jogo da memoria, bem simples mas com várias técnicas de javascript. <br>
-FIvou bem legal e divertido, ótimo para passar o tempo.
+Jogo bem legal e divertido, ótimo para passar o tempo.
 
 ## Tecnologias
 
